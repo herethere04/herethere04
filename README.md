@@ -15,6 +15,5 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div></br>
 
-[![Áquila GitHub stats](https://github-readme-stats.vercel.app/api?username=herethere04&show_icons=true&theme=dracula)](https://github.com/herethere04/github-readme-stats)
 
 Sou estudante de Ciência da Computação no CEUB de Taguatinga, DF, e tenho 22 anos. Sou apaixonado por tecnologia e estou sempre em busca de aprimoramento e novos conhecimentos nessa área em constante evolução. Meu objetivo é crescer profissionalmente e aplicar o que aprendo para criar soluções inovadoras.
