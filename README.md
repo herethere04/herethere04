@@ -16,4 +16,4 @@
 </div></br>
 
 
-Sou estudante de Ciência da Computação no CEUB de Taguatinga, DF, e tenho 22 anos. Sou apaixonado por tecnologia e estou sempre em busca de aprimoramento e novos conhecimentos nessa área em constante evolução. Meu objetivo é crescer profissionalmente e aplicar o que aprendo para criar soluções inovadoras.
+Sou estudante de Ciência da Computação no CEUB de Taguatinga, DF, e tenho 23 anos. Sou apaixonado por tecnologia e estou sempre em busca de aprimoramento e novos conhecimentos nessa área em constante evolução. Meu objetivo é crescer profissionalmente e aplicar o que aprendo para criar soluções inovadoras.
